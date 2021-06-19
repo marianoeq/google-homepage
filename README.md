@@ -2,4 +2,5 @@ This is my first project from scratch. My first time using The Odin project web 
 
 Hope first time of many more!...
 
+Thanks.
 
