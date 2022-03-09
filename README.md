@@ -1,6 +1,11 @@
-This is my first project from scratch. My first time using The Odin project web site. And first time using git to upload for a very first time a project to Git Hub.
+But I decided to do it anyway because it was my very first project. So, there are some kinds of emotions involved in it. 
+
+Apart from being my first project, it was my first time using GitHub as well.
+
+All of this was using “https://www.theodinproject.com” as a guide and some YouTube tutorials for the GitHub part.
+
 
 Hope first time of many more!
 
-Thanks...
+Thanks…
 
